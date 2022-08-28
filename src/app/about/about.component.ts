@@ -12,6 +12,7 @@ export class AboutComponent implements OnInit {
   ngOnInit(): void {
     console.log('About Page');
     console.log('Hello');
+    console.log('New');
   }
 
 
